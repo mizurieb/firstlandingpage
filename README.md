@@ -1,4 +1,4 @@
-# firstlandingpage
+# LinktreeCopy
 My first landing page / portfolio page
 
 After several classes seen at Digital House, and using the Sololearn and Mimo apps frequently, I made my first landing page where I highlight links to the articles I have written and my personal contact links.
